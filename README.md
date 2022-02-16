@@ -7,4 +7,4 @@
 <code>npm start</code>
 
 <b>Attention</b>
-project in progress...
+<code>project in progress...</code>
